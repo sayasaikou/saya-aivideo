@@ -91,6 +91,7 @@
 | [`docs/h3-capability-probe.md`](docs/h3-capability-probe.md) | 能力边界探针（6 条）与耗时基准 |
 | [`docs/character-replacement-models.md`](docs/character-replacement-models.md) | 人物替换模型选型依据 |
 | [`docs/local-second-creation-workflow.md`](docs/local-second-creation-workflow.md) | 本地二次创作工作流与环境搭建 |
+| [`docs/shot-diagnosis.md`](docs/shot-diagnosis.md) | 一场五镜短片的失败诊断表：症状 → 根因 → 改法；含「冲击力来自时间反差」「旋转动作改写末态」两条可复用判据 |
 
 ## 实测基准（参考值）
 
